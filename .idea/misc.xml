@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Victorina/app/src/main/res/drawable-v24/style_btn_stroke_black95_press_white.xml" value="0.1245" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/button_gamelevels.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/button_stroke_black95_press_white.xml" value="0.1245" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/button_stroke_white_press_blue.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/style_btn_black60.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/style_btn_black95.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/style_btn_stroke_black95.xml" value="0.1245" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/style_btn_white.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/style_btn_white_blue_press.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/style_ing_universal.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/drawable/style_points.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/layout-large/universal.xml" value="0.19083969465648856" />
+        <entry key="..\:/Victorina/app/src/main/res/layout-normal/universal.xml" value="0.33" />
+        <entry key="..\:/Victorina/app/src/main/res/layout-small/universal.xml" value="0.22" />
+        <entry key="..\:/Victorina/app/src/main/res/layout-xlarge/universal.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/layout/activity_main.xml" value="0.6033333333333334" />
+        <entry key="..\:/Victorina/app/src/main/res/layout/gamelevels.xml" value="0.1" />
+        <entry key="..\:/Victorina/app/src/main/res/layout/preview_dialog.xml" value="0.5" />
+        <entry key="..\:/Victorina/app/src/main/res/layout/universal.xml" value="0.67" />
+        <entry key="..\:/Victorina/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
